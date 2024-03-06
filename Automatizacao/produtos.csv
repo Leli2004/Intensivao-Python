@@ -1,0 +1,21 @@
+codigo,marca,tipo,categoria,preco_unitario,custo,obs
+MOLO000251,Logitech,Mouse,1,25.95,6.50,Conferir estoque
+CAHA000252,Hashtag,Camisa,2,25.00,11.00,Conferir estoque
+MOMU000111,Multilaser,Mouse,1,11.99,3.40,
+BOHA000251,Hashtag,Bone,1,25.00,11.00,
+TEAO0003612,AOC,Televisao,12,360.00,97.20,
+TETO0006413,Toshiba,Televisao,13,640.00,185.60,Conferir estoque
+TESE0005016,SEMP,Televisao,16,500.00,125.00,
+TEPH0002720,Philco,Televisao,20,279.80,56.00,
+TETC0002222,TCL,Televisao,22,220.00,59.40,Conferir estoque
+REGA000441,Garmin,Relogio,1,440.00,96.80,
+NOMI000426,Microsoft,Notebook,6,429.00,90.10,Conferir estoque
+REAP000783,Apple,Relogio,3,789.00,228.80,
+CESA000301,Samsung,Celular,1,300.00,66.00,
+CEXI0003114,Xiaomi,Celular,14,317.00,133.30,Conferir estoque
+CEMO0006924,Motorola,Celular,24,69.00,18.60,
+NOLE000741,Lenovo,Notebook,1,749.00,224.70,
+NODE000492,Dell,Notebook,2,498.00,109.60,Conferir estoque
+NOAS000153,Asus,Notebook,3,1599.00,415.70,
+NOHP000594,HP,Notebook,4,599.00,131.80,Conferir estoque
+NOAC000525,Acer,Notebook,5,529.99,143.10,
